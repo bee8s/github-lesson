@@ -1,2 +1,2 @@
 # github-lesson
-I am learning how to use gethub and repository options
+I am learning how to use github and revewing repository options
